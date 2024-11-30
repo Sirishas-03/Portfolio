@@ -20,7 +20,8 @@ Hi, I'm *Sirisha S*, an innovative and smart-working software developer aspiring
 
 ### 1. *Trusted Crowdfunding Platform*  
 A decentralized crowdfunding platform built using Solidity, Hardhat, and Next.js.  
-![Crowdfunding Platform](images/crowdfunding_platform.png)  
+![Crowdfunding Platform](https://github.com/Sirishas-03/Portfolio/blob/main/crowdfunding1.png)  
+![Crowdfunding Platform](https://github.com/Sirishas-03/Portfolio/blob/main/crowdfunding2.png)  
 
 
 ---
