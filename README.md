@@ -30,7 +30,7 @@ A decentralized crowdfunding platform built using Solidity, Hardhat, and Next.js
 ## Achievements  
 - Developed a secure and scalable smart contract for a crowdfunding platform.  
 - Designed a Django application to manage student records efficiently.  
-- Participated in hackathons, winning recognition for innovative solutions.  
+  
 
 ---
 
