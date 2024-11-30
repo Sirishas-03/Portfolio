@@ -5,7 +5,8 @@ Welcome to my professional portfolio! This repository showcases my projects, ski
 ---
 
 ## About Me  
-Hi, I'm *Sirisha S*, an innovative and smart-working software developer aspiring to create impactful solutions. My expertise includes building web applications, smart contracts, and using modern technologies like Tailwind CSS, JavaScript, Solidity, Hardhat, and Next.js.
+Hi, I'm *Sirisha S*, an innovative and smart-working software developer aspiring to create impactful solutions.I aim to make a significant contribution to the company by consistently applying my knowledge and skills to consistently uphold the company's progress, which provides me with excellent challenges and opportunities for professional growth.
+I enjoy turning complex problems into simple, beautiful and intuitive designs.
 
 ---
 
