@@ -33,6 +33,7 @@ A decentralized crowdfunding platform built using Solidity, Hardhat, and Next.js
   
 
 ---
+[Watch the video](https://github.com/Sirishas-03/Portfolio/blob/main/Sirishasportfolio.mp4)
 
 ## Contact Me  
 Feel free to reach out for collaborations or inquiries:  
