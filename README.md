@@ -1,4 +1,4 @@
-# Sirisha S - Portfolio  
+# Sirisha's - Portfolio  
 
 Welcome to my professional portfolio! This repository showcases my projects, skills, and achievements as a software developer. Feel free to explore and reach out if you have any questions or collaboration ideas.
 
