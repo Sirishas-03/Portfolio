@@ -8,6 +8,11 @@ Welcome to my professional portfolio! This repository showcases my projects, ski
 Hi, I'm *Sirisha S*, an innovative and smart-working software developer aspiring to create impactful solutions.I aim to make a significant contribution to the company by consistently applying my knowledge and skills to consistently uphold the company's progress, which provides me with excellent challenges and opportunities for professional growth.
 I enjoy turning complex problems into simple, beautiful and intuitive designs.
 
+- 🌍 Based in: [Bangalore]
+- 📧 Email: [sirishas3366@gmail.com]
+- 🌐 Portfolio: [https://github.com/Sirishas-03/Portfolio]
+- 💼 LinkedIn: [https://www.linkedin.com/in/sirishas26]
+- 📂 GitHub: [https://github.com/Sirishas-03]
 ---
 
 ## Skills  
@@ -20,11 +25,11 @@ I enjoy turning complex problems into simple, beautiful and intuitive designs.
 ## Projects  
 
 ### 1. *Trusted Crowdfunding Platform*  
-A decentralized crowdfunding platform built using Solidity, Hardhat, and Next.js.  
+   - *Description*: [A Trusted Crowdfunding Platform using Smart Contracts leverages blockchain technology to ensure transparency, security, and efficiency in fundraising campaigns. By utilizing smart contracts, the platform automates key processes, such as fund allocation, milestone tracking, and conditional payouts, eliminating the need for intermediaries and reducing the risk of fraud. Contributors can track the use of their funds in real-time, and project creators receive payments only when predefined goals are met. This innovative approach fosters trust between stakeholders, enhances accountability, and makes crowdfunding more accessible to a global audience.]
+   - *Tech Stack*: [React,Tailwind CSS,JavaScript,Next.js,Solidity,Hardhat,Web3.js / ethers.js]
+   - *GitHub*: [https://github.com/Sirishas-03/crowdfunding]
 ![Crowdfunding Platform](https://github.com/Sirishas-03/Portfolio/blob/main/crowdfunding1.png)  
  
-
-
 ---
 
 ## Achievements  
@@ -37,6 +42,13 @@ A decentralized crowdfunding platform built using Solidity, Hardhat, and Next.js
 [![Play Video](https://github.com/Sirishas-03/Portfolio/blob/main/Demo.png)](https://github.com/Sirishas-03/Portfolio/blob/main/Sirishasportfolio.mp4)
 
 ---
+
+## 📄 Resume
+
+[Click here to download my resume]()
+
+---
+
 ## Contact Me  
 Feel free to reach out for collaborations or inquiries:  
 
