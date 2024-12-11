@@ -30,8 +30,7 @@ I enjoy turning complex problems into simple, beautiful and intuitive designs.
    - *Description*: A Trusted Crowdfunding Platform using Smart Contracts leverages blockchain technology to ensure transparency, security, and efficiency in fundraising campaigns. By utilizing smart contracts, the platform automates key processes, such as fund allocation, milestone tracking, and conditional payouts, eliminating the need for intermediaries and reducing the risk of fraud. Contributors can track the use of their funds in real-time, and project creators receive payments only when predefined goals are met. This innovative approach fosters trust between stakeholders, enhances accountability, and makes crowdfunding more accessible to a global audience.
      
    - *Tech Stack*: React,Tailwind CSS,JavaScript,Next.js,Solidity,Hardhat,Web3.js / ethers.js
-     
-   - *GitHub*: https://github.com/Sirishas-03/crowdfunding
+   - *GitHub*: [https://github.com/Sirishas-03/crowdfunding](https://github.com/Sirishas-03/crowdfunding)
      
 ![Crowdfunding Platform](https://github.com/Sirishas-03/Portfolio/blob/main/crowdfunding1.png)  
  
