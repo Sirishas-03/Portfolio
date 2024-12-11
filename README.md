@@ -43,8 +43,8 @@ I enjoy turning complex problems into simple, beautiful and intuitive designs.
 
 ---
 ## Sirisha's Professional Portfolio: Skills & Expertise
-https://github.com/Sirishas-03/Portfolio/blob/main/Sirishasportfolio.mp4
 [![Play Video](https://github.com/Sirishas-03/Portfolio/blob/main/Demo.png)](https://github.com/Sirishas-03/Portfolio/blob/main/Sirishasportfolio.mp4)
+
 
 ---
 
