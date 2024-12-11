@@ -8,11 +8,12 @@ Welcome to my professional portfolio! This repository showcases my projects, ski
 Hi, I'm *Sirisha S*, an innovative and smart-working software developer aspiring to create impactful solutions.I aim to make a significant contribution to the company by consistently applying my knowledge and skills to consistently uphold the company's progress, which provides me with excellent challenges and opportunities for professional growth.
 I enjoy turning complex problems into simple, beautiful and intuitive designs.
 
-- 🌍 Based in: Bangalore
-- 📧 Email: sirishas3366@gmail.com
-- 🌐 Portfolio: https://github.com/Sirishas-03/Portfolio
-- 💼 LinkedIn: https://www.linkedin.com/in/sirishas26
-- 📂 GitHub: https://github.com/Sirishas-03
+- **Based in**: [Bangalore, India](https://www.google.com/maps/place/Bangalore,+India)
+- **Email**: [sirishas3366@gmail.com](mailto:sirishas3366@gmail.com)
+- **Portfolio**: [https://github.com/Sirishas-03/Portfolio](https://github.com/Sirishas-03/Portfolio)
+- **LinkedIn**: [https://www.linkedin.com/in/sirishas26](https://www.linkedin.com/in/sirishas26)
+- **GitHub**: [https://github.com/Sirishas-03](https://github.com/Sirishas-03)
+
 ---
 
 ## Skills  
@@ -56,8 +57,8 @@ I enjoy turning complex problems into simple, beautiful and intuitive designs.
 ## Contact Me  
 Feel free to reach out for collaborations or inquiries:  
 
-- *Email*: [sirishas3366@gmail.com](mailto:sirishas3366@gmail.com)  
-- *LinkedIn*: https://www.linkedin.com/in/sirishas26
+- **Email**: [sirishas3366@gmail.com](mailto:sirishas3366@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/sirishas26](https://www.linkedin.com/in/sirishas26)
 ---
 
 Thank you for visiting my portfolio!
