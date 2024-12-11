@@ -10,7 +10,7 @@ I enjoy turning complex problems into simple, beautiful and intuitive designs.
 
 - **Based in**: [Bangalore, India](https://www.google.com/maps/place/Bangalore,+India)
 - **Email**: [sirishas3366@gmail.com](mailto:sirishas3366@gmail.com)
-- **Portfolio**: [https://github.com/Sirishas-03/Portfolio](https://github.com/Sirishas-03/Portfolio)
+- **Portfolio**: [https://sirishas-03.github.io/Portfolio/](https://sirishas-03.github.io/Portfolio/)
 - **LinkedIn**: [https://www.linkedin.com/in/sirishas26](https://www.linkedin.com/in/sirishas26)
 - **GitHub**: [https://github.com/Sirishas-03](https://github.com/Sirishas-03)
 
