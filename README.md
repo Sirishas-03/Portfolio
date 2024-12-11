@@ -45,7 +45,7 @@ I enjoy turning complex problems into simple, beautiful and intuitive designs.
 
 ## 📄 Resume
 
-[Click here to download my resume]()
+[Click here to download my resume](https://github.com/Sirishas-03/Portfolio/blob/main/SIRISHAS.pdf)
 
 ---
 
@@ -53,7 +53,7 @@ I enjoy turning complex problems into simple, beautiful and intuitive designs.
 Feel free to reach out for collaborations or inquiries:  
 
 - *Email*: [sirishas3366@gmail.com](mailto:sirishas3366@gmail.com)  
-- *LinkedIn*: [https://www.linkedin.com/in/sirishas26](https://www.linkedin.com/in/sirishas26)  
+- *LinkedIn*: [https://www.linkedin.com/in/sirishas26]
 ---
 
 Thank you for visiting my portfolio!
